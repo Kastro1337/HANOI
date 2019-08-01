@@ -1,0 +1,6 @@
+#Todo
+Implementar contador de jogadas;
+Implementar seletor de quantidade de discos;
+Revisar possiveis (prováveis) bugs;
+Optar por formato de impressão na tela (Vertical ou Horizontal);
+Outras bobagens pra parecer que eu seu o que estou fazendo;
