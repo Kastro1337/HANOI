@@ -3,7 +3,7 @@ torre_A = [3,2,1]
 torre_B = []
 torre_C = []
 def tabu():
-    print(torre_A,'\n',torre_B,'\n',torre_C,)
+    print('',torre_A,'\n',torre_B,'\n',torre_C)
 
 while torre_C != [3,2,1]:
     tabu()
@@ -49,4 +49,4 @@ while torre_C != [3,2,1]:
             torre_C.append(mazzutti)
 
 print(tabu())
-print("\n"*5,"VOCE GANHOU UHUUUUUUUL")
+print("\n"*5,"VOCE GANHOU UHUUUUUL!!!!!!!")
